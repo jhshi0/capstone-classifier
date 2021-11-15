@@ -6,7 +6,7 @@ capstone-classifier
 
 capstone-app
 
-capstone-scraper records work to establish a scraper to collect kitchen photos from Google.
+capstone-scraper records work to establish a scraper which collects kitchen photos from Google.
 
 capstone-classifier records work to contruct an image classification algorithm via Keras and Tensorflow.
 
