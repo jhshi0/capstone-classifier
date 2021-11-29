@@ -13,4 +13,4 @@ capstone-classifier records work to contruct an image classification algorithm v
 capstone-app records work to assemble an interactive map which display project results.
 
 
-
+Link to Capstone App Page: https://capstone-vision-estate.herokuapp.com/
